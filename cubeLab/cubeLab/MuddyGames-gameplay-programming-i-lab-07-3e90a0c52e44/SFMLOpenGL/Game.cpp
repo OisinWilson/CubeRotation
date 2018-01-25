@@ -1,5 +1,12 @@
 #include "Game.h"
 
+//@author Oisin Wilson
+//@login C00213826
+//@description: 
+// Demo of 3D library on a cube
+//@Known Bugs:
+// no known bugs
+
 bool updatable = false;
 
 Game::Game() : window(VideoMode(800, 600), "OpenGL Cube")

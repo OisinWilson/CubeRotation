@@ -3,10 +3,9 @@
 //@author Oisin Wilson
 //@login C00213826
 //@description: 
-// Demo of 3D library
+// Demo of 3D library on a cube
 //@Known Bugs:
 // no known bugs
-
 #include<iostream>
 #include <cmath>
 #include <string>

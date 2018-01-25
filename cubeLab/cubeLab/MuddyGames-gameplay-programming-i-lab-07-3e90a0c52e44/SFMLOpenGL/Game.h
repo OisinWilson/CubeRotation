@@ -7,6 +7,13 @@
 #include "Vector3.h"
 #include "Matrix3.h"
 
+//@author Oisin Wilson
+//@login C00213826
+//@description: 
+// Demo of 3D library on a cube
+//@Known Bugs:
+// no known bugs
+
 using namespace std;
 using namespace sf;
 
